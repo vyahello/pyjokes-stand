@@ -7,6 +7,9 @@
 [![Build Status](https://travis-ci.org/vyahello/pyjokes-stand.svg?branch=master)](https://travis-ci.org/vyahello/pyjokes-stand)
 [![Coverage Status](https://coveralls.io/repos/github/vyahello/pyjokes-stand/badge.svg?branch=master)](https://coveralls.io/github/vyahello/pyjokes-stand?branch=master)
 
+[![EO principles respected here](https://www.elegantobjects.org/badge.svg)](https://www.elegantobjects.org)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE.md)
+
 **Tools**
 > - `python 3.7`
 > - `html/css/js`
