@@ -9,6 +9,7 @@
 
 [![EO principles respected here](https://www.elegantobjects.org/badge.svg)](https://www.elegantobjects.org)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE.md)
+[![Hits-of-Code](https://hitsofcode.com/github/vyahello/pyjokes-stand)](https://hitsofcode.com/view/github/vyahello/pyjokes-stand)
 
 **Tools**
 > - `python 3.7`
